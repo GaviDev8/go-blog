@@ -1,6 +1,6 @@
-#Gabriela Ortiz (GO) Blog Post
+# Gabriela Ortiz (GO) Blog Post
 
-##Description
+## Description
 Welcome! This is a collection of blog posts to showcase my insights and thoughts that I'm currently developing as I build my professional portfolio.
 
 Motivation: I aim to curate a diverse range of blogs primarily utilizing HTML, CSS, and JavaScript.
@@ -9,7 +9,7 @@ Project Purpose: These blog posts serve to enrich my resume and enhance my netwo
 
 Lessons Learned: Through these endeavors, I'm gaining a solid grasp of fundamental coding languages.
 
-##Installation 
+## Installation 
 To get started:
 1. Install all the assets 
 2. Start on separating your files to keep things organized as so 
@@ -31,5 +31,5 @@ my-blog
 
 ![Mock-up of blog post](/assets/images/100-web-apis-challenge-demo.gif)
 
-##License
+## License
 MIT License
