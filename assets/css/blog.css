@@ -1,0 +1,48 @@
+/* blog.css */
+
+/* Header row style */
+.blog-header {
+display: flex;
+justify-content: space-between; /* Adjust alignment horizontally */
+align-items: center; /* Center vertically */
+padding: 10px; 
+}
+
+/* Style back button */
+#back-button {
+    padding: 10px;
+    background-color: burlywood;
+    border: none;
+    cursor: pointer;
+    color: black;
+    margin-right: 10px; /* Add margin to separate from other elements */
+}
+
+/* Style toggle button */
+#toggle-button {
+    padding: 10px;
+    background-color: burlywood;
+    border: none;
+    cursor: pointer;
+}
+
+/* Center the posts section */
+#posts-section {
+    width: 80%;
+    margin: 20px auto 0 auto;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    border: 10px;
+    border-style: solid;
+    border-color: darkgreen;
+    height: 185px;
+    align-items: center;
+}
+
+/* Style single blog posts */
+.post {
+    background-color: burlywood;
+    border: 1px solid black;
+    padding: 20px;
+}

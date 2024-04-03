@@ -1,0 +1,32 @@
+/* form.css */
+
+/* Center the form */
+form {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Style form inputs and labels */
+label, input, textarea {
+    display: block;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+/* Style submit button */
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+/* Style submit button on hover */
+button:hover {
+    background-color: darkolivegreen;
+}
+
